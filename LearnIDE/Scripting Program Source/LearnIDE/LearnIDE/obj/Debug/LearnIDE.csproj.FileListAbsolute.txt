@@ -1,0 +1,20 @@
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\bin\Debug\LearnIDE.exe.config
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\bin\Debug\LearnIDE.exe
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\bin\Debug\LearnIDE.pdb
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.Form1.resources
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.Properties.Resources.resources
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csproj.GenerateResource.cache
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csproj.CoreCompileInputs.cache
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.exe
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.pdb
+C:\Users\davis\source\repos\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csprojAssemblyReference.cache
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\bin\Debug\LearnIDE.exe.config
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\bin\Debug\LearnIDE.exe
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\bin\Debug\LearnIDE.pdb
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csprojAssemblyReference.cache
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.Form1.resources
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.Properties.Resources.resources
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csproj.GenerateResource.cache
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.csproj.CoreCompileInputs.cache
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.exe
+C:\Users\davis\OneDrive\Desktop\Scripting Program Source\LearnIDE\LearnIDE\obj\Debug\LearnIDE.pdb

@@ -1,0 +1,11 @@
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\bin\Release\netcoreapp2.1\Script_ProofOfConcept.deps.json
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\bin\Release\netcoreapp2.1\Script_ProofOfConcept.runtimeconfig.json
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\bin\Release\netcoreapp2.1\Script_ProofOfConcept.runtimeconfig.dev.json
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\bin\Release\netcoreapp2.1\Script_ProofOfConcept.dll
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\bin\Release\netcoreapp2.1\Script_ProofOfConcept.pdb
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.csproj.CoreCompileInputs.cache
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.AssemblyInfoInputs.cache
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.AssemblyInfo.cs
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.dll
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.pdb
+C:\Users\davis\OneDrive\Desktop\Script_ProofOfConcept\Script_ProofOfConcept\obj\Release\netcoreapp2.1\Script_ProofOfConcept.csprojAssemblyReference.cache
